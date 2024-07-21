@@ -8,7 +8,7 @@ My expertise includes working with libraries like Pytorch, TensorFlow, and OpenC
 
 ---
 
-### 🧰 Tools and Frameworks
+### 🧰 Languages and Frameworks
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" alt="ROS logo" width="50" height="50" /> <img 
@@ -17,7 +17,9 @@ src="https://github.com/devicons/devicon/blob/master/icons/python/python-origina
 src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab logo" width="50" height="50" /> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch logo" width="50" height="50" /> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow logo" width="50" height="50" /> <img 
-src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus logo" width="50" height="50" />
+src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV logo" width="50" height="50" /> <img 
+src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus logo" width="50" height="50" /> <img 
+src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="RUST logo" width="50" height="50" />
 
 ---
 
