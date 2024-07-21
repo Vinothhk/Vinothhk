@@ -7,7 +7,8 @@ I am a B Tech student in Automation and Robotics.My primary interest lies in the
 My expertise includes working with libraries like Pytorch, TensorFlow, and OpenCV for deep learning and computer vision applications.
 
 ---
-🧰 Tools and Frameworks
+
+### 🧰 Tools and Frameworks
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" alt="ROS logo" width="50" height="50" /> <img 
@@ -17,6 +18,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-origina
 src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch logo" width="50" height="50" /> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow logo" width="50" height="50" /> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus logo" width="50" height="50" />
+
+---
 <!--
 **Vinothhk/Vinothhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
