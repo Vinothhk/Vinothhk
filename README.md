@@ -28,7 +28,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.sv
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinothhk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Vinothhk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinothhk&theme=prussian&hide_border=true" alt="Vinothhk" /></p>
+<p><img align="center" src="![Vinothhk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vinothhk&theme=vue-dark&hide_border=true)" alt="Vinothhk" /></p>
 
 ---
 <!--
