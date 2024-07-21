@@ -1,8 +1,11 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vinoth Kumar!
 
 ---
-### I am a B Tech student in Automation and Robotics.My expertise includes working with libraries like Pytorch, TensorFlow, and OpenCV for deep learning and computer vision applications.
-### My primary interest lies in the field of robotics such as trajectory planning and autonomous navigation, leveraging my knowledge in forward and inverse kinematics and control systems.
+
+I am a B Tech student in Automation and Robotics.My primary interest lies in the field of robotics such as trajectory planning and autonomous navigation, leveraging my knowledge in forward and inverse kinematics and control systems.
+
+My expertise includes working with libraries like Pytorch, TensorFlow, and OpenCV for deep learning and computer vision applications.
+
 ---
 🧰 Tools and Frameworks
 
