@@ -1,10 +1,14 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vinoth Kumar!
 
 ---
+<h3 align="center">I am a B Tech student in Automation and Robotics.My primary interest lies in the field of robotics such as trajectory planning and autonomous navigation, leveraging my knowledge in forward and inverse kinematics and control systems.</h3>
 
-I am a B Tech student in Automation and Robotics.My primary interest lies in the field of robotics such as trajectory planning and autonomous navigation, leveraging my knowledge in forward and inverse kinematics and control systems.
 
-My expertise includes working with libraries like Pytorch, TensorFlow, and OpenCV for deep learning and computer vision applications.
+<h3 align="center">My expertise includes working with libraries like Pytorch, TensorFlow, and OpenCV for deep learning and computer vision applications.</h3>
+
+---
+
+- 📫 mail : `iamvinothkumar16@gmail.com`
 
 ---
 
@@ -23,7 +27,9 @@ src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.sv
 
 ---
 
-📫 mail : `iamvinothkumar16@gmail.com`
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinothhk&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="Vinothhk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinothhk&theme=prussian&hide_border=true" alt="Vinothhk" /></p>
 
 ---
 <!--
