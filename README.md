@@ -12,7 +12,7 @@
 
 ---
 
-### 🧰 Languages , Tools and Frameworks
+## 🧰 Languages , Tools and Frameworks
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg" alt="ROS logo" width="50" height="50" /> <img 
@@ -29,8 +29,12 @@ src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.sv
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinothhk&theme=slateorange&show_icons=true&hide_border=false&count_private=true" alt="Vinothhk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinothhk&theme=slateorange&hide_border=false" alt="Vinothhk" /></p>
+<p align="center" >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinothhk&theme=slateorange&show_icons=true&hide_border=false&count_private=true" alt="Vinothhk">
+</p>
+<p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vinothhk&theme=slateorange&hide_border=false" alt="Vinothhk">
+</p>
 
 ---
 <!--
