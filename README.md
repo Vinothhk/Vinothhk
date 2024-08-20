@@ -1,6 +1,8 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vinoth Kumar!
 
 ---
+<img src="https://github.com/Vinothhk/Vinothhk/blob/main/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" width="630">
+---
 <h3 align="center">My primary interest lies in the field of robotics such as trajectory planning and autonomous navigation,control systems.</h3>
 
 
