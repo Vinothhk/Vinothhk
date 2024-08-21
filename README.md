@@ -51,6 +51,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker logo" width="50" height="50" /> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux logo" width="50" height="50" /> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus logo" width="50" height="50" />  <img 
+src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CPlusPlus logo" width="50" height="50" /> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash logo" width="50" height="50" /> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="RUST logo" width="50" height="50" />
 
