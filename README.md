@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vinoth Kumar!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vinoth!
 
 ---
 <h3 align="center"><img src="https://github.com/Vinothhk/Vinothhk/blob/main/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" width="530"></h3>
