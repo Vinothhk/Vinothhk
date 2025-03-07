@@ -5,8 +5,8 @@
 
 
 <!-- <h3 align="center">My primary interest lies in the field of robotics such as trajectory planning and autonomous navigation,control systems.</h3> -->
-- 🌱 My primary interest lies in the field of robotics such as trajectory planning and autonomous navigation,control systems
-- 🌱 My expertise includes working with libraries like Pytorch, TensorFlow, and OpenCV for deep learning and computer vision applications.
+- 🌱 My primary interest lies in the field of robotics such as  autonomous navigation, trajectory planning and control systems
+- 🌱 My expertise includes working with ROS2, Programming in Robotics and computer vision applications.
 <!-- <h3 align="center">My expertise includes working with libraries like Pytorch, TensorFlow, and OpenCV for deep learning and computer vision applications.</h3>  -->
 
 ---
