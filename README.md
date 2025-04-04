@@ -1,5 +1,4 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vinoth!
-
 ---
 <h3 align="center"><img src="https://github.com/Vinothhk/Vinothhk/blob/main/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" width="530"></h3>
 
@@ -62,7 +61,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.sv
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinothhk&theme=slateorange&show_icons=true&hide_border=false&count_private=true" alt="Vinothhk">
 </p>
 <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vinothhk&theme=slateorange&hide_border=false" alt="Vinothhk">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinothhk&theme=slateorange&hide_border=false" alt="Vinothhk">
 </p>
 
 ---
