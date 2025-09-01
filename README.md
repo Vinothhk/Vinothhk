@@ -13,30 +13,6 @@
 - 📫 mail : `iamvinothkumar16@gmail.com`
 
 ---
-
-## Profile Views
-
-
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <!-- <td>
-        <div align="center">
-          <br />
-          <a align="center" href="https://github.com/Vinothhk"><b>Vinothhk</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/Vinothhk"> <img src="https://komarev.com/ghpvc/?username=Vinothhk&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
-
----
 ## 🧰 Languages , Tools and Frameworks
 
 
